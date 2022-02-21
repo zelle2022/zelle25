@@ -1,7 +1,8 @@
 Monthly bills
 water
 rent
-eclectricity
+eclectricity.
 phone
 insurance
 morgage
+auto insurance
